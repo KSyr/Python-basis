@@ -1,5 +1,5 @@
 # Python-basis
-Basis of python
+Basis of python \n
 python : 프로그래밍 언어 중 하나
 python 파일의 확장자 : .py
 특징 : 1)인간 다운 언어(해석)
